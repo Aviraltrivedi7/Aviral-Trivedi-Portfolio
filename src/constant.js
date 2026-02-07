@@ -48,7 +48,7 @@ export const personalInfo = {
   },
   socialLinks: {
     github: "https://github.com/Aviraltrivedi7",
-    linkedin: "https://www.linkedin.com/in/aviral-trivedi",
+    linkedin: "https://www.linkedin.com/in/aviral-trivedi0/",
     whatsapp: "https://wa.me/919219797581?text=Hello!",
     facebook: "https://www.facebook.com/aviral.trivedi",
     instagram: "https://www.instagram.com/aviral.trivedi"

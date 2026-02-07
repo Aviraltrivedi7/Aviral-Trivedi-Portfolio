@@ -37,7 +37,7 @@ const Footer = () => {
         <div className='flex flex-wrap justify-center space-x-4 mt-6'>
           {[
             { icon: <FaWhatsapp />, link: 'https://wa.me/919219797581?text=Hello!' },
-            { icon: <FaLinkedin />, link: 'https://www.linkedin.com/in/aviral-trivedi' },
+            { icon: <FaLinkedin />, link: 'https://www.linkedin.com/in/aviral-trivedi0/' },
             { icon: <FaFacebook />, link: 'https://www.facebook.com/aviral.trivedi' },
             { icon: <FaInstagram />, link: 'https://www.instagram.com/aviral.trivedi' },
           ].map((item, index) => (
