@@ -62,6 +62,6 @@ Just connect this repo and build with Vite settings.
 
 If you wanna work together or just say hi:
 
-- LinkedIn: https://www.linkedin.com/in/aviraltrivedi  
+- LinkedIn: https://www.linkedin.com/in/aviral-trivedi0/  
 - Email: trivediaviral46@gmail.com  
 - GitHub: https://github.com/Aviraltrivedi7
