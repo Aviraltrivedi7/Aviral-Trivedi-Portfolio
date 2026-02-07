@@ -1,12 +1,67 @@
-# React + Vite
+# 👋 Hi, I'm Aviral Trivedi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hey! I'm Aviral, a student at **IIT Madras (BS Data Science '28)** and a developer who loves building clean, responsive web apps and learning new tech. Welcome to my Portfolio project!
 
-Currently, two official plugins are available:
+## 🚀 About This Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This repo is my **personal portfolio website** built using **React + Vite**.  
+It's meant to showcase my skills, projects and contact info in a clean web interface.
 
-## Expanding the ESLint configuration
+## 💡 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Clean and modern portfolio layout  
+- Sections for About, Skills, Projects, Contact  
+- Mobile-friendly responsive design  
+- Easy to extend with your own content
+
+## 🛠 Tech Stack
+
+This project uses:
+
+- **React** for building UI  
+- **Vite** for fast dev setup  
+- **HTML / CSS / JavaScript** basics  
+- Optional: Add Tailwind/Bootstrap if needed
+
+## 📁 Folder Structure
+
+/public → Static assets like images
+/src → Source code (components, pages, styles)
+README.md → This file
+package.json → Project config & dependencies
+
+
+## 🚀 How to Run Locally
+
+1. Clone this repo  
+git clone https://github.com/Aviraltrivedi7/Aviral-Trivedi-Portfolio.git
+
+2. Move into project folder  
+cd Aviral-Trivedi-Portfolio
+
+3. Install dependencies  
+npm install
+
+4. Start dev server  
+npm run dev
+
+
+Open the browser at `http://localhost:5173` to see your portfolio live locally.
+
+## 📌 Deployment
+
+You can deploy this for free using:
+
+- **GitHub Pages**
+- **Netlify**
+- **Vercel**
+
+Just connect this repo and build with Vite settings.
+
+## 💬 Contact Me
+
+If you wanna work together or just say hi:
+
+- LinkedIn: https://www.linkedin.com/in/aviraltrivedi  
+- Email: trivediaviral46@gmail.com  
+- GitHub: https://github.com/Aviraltrivedi7
