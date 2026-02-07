@@ -105,10 +105,11 @@ const Experiences = () => {
                 {/* button for certificate and research paper  */}
                 <div className='flex gap-x-10 justify-center relative translate-y-3 md:translate-y-0 '>
                     <div className='bg-white h-1 w-50 absolute left-0 top-3 md:hidden'></div>
-                    <a href='https://drive.google.com/file/d/1lBdOQoKZ_GrVdl68KEcjMg3-w5Iu2UI2/view?usp=drive_link' target='_blank' rel='noopener noreferrer'
-                        className=' bg-purple-600 hover:bg-purple-800 text-gray-200 lg:px-6 lg:py-2 px-3 py-1 rounded-xl lg:text-xl text-sm font-semibold text-center'>
+                    <button
+                        onClick={() => alert('Coming Soon!')}
+                        className='bg-purple-600 hover:bg-purple-800 text-gray-200 lg:px-6 lg:py-2 px-3 py-1 rounded-xl lg:text-xl text-sm font-semibold text-center cursor-pointer'>
                         View All Certificates
-                    </a>
+                    </button>
                 </div>
             </div>
         </section>
